@@ -1,0 +1,6 @@
+{
+  "apiUrl": "http://api.thing.dev/v1",
+  "apiHost": "api.thing.dev",
+  "host": "localhost",
+  "hostPort": "3000"
+}

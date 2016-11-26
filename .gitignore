@@ -1,0 +1,15 @@
+.idea/
+node_modules/
+coverage/
+static/dist/
+build/
+*.log
+*.map
+*.DS_Store
+npm-debug.log
+.tern-port
+dist/
+*.iml
+webpack-assets.json
+webpack-stats.json
+npm-debug.log

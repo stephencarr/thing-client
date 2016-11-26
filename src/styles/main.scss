@@ -1,0 +1,8 @@
+:global { @import "~highlight.js/styles/zenburn"; }
+:global { @import "~react-select/dist/react-select"; }
+
+body {
+  :global(.Select) {
+    margin-bottom: 10px;
+  }
+}
