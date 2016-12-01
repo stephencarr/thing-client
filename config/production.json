@@ -1,3 +1,4 @@
 {
-  "apiUrl": "https://devise-token-auth-demo.herokuapp.com"
+  "apiUrl": "http://api.gonelson.ca/v1",
+  "apiHost": "api.gonelson.ca"
 }
